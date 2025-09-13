@@ -27,7 +27,7 @@ It includes **Python code, Jupyter notebooks, and lecture slides (PowerPoint)** 
 lecture-materials/
 │
 ├── notebook/
-│   └── height\_prediction\_demo.ipynb
+│   └── height_prediction_demo.ipynb
 │
 ├── slides/
 │   ├── lecture.pdf
