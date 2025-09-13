@@ -112,7 +112,8 @@ $$
 
 ## Further Resources / Advanced Reading
 
-* *Neural Networks: Zero to Hero* by Andrew Karpathy — [YouTube Playlist](https://youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&si=F3IJ0zJCk7u9OwVg)
+* *Neural Networks: Zero to Hero* by Andrej Karpathy — [Link to YouTube Playlist](https://youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&si=F3IJ0zJCk7u9OwVg)
+* *Neural Networks and Deep Learning* by Andrew Ng — [Link to YouTube Playlist](https://youtube.com/playlist?list=PLkDaE6sCZn6Ec-XTbcX1uRg2_u4xOEky0&si=M0-lH20djjDZpGuZ)
   
 ---
 
