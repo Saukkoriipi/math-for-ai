@@ -110,6 +110,12 @@ $$
 
 ---
 
+## Further Resources / Advanced Reading
+
+* *Neural Networks: Zero to Hero* by Andrew Karpathy — [YouTube Playlist](https://youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&si=F3IJ0zJCk7u9OwVg)
+  
+---
+
 ## License
 
 Free to use for **educational purposes**. Attribution is appreciated when reusing in your own teaching.
