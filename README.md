@@ -1,6 +1,6 @@
 # Introduction to the Mathematics of Deep Learning
 
-This repository contains **teaching materials** for an **introductory lecture on the mathematics of deep learning**.
+This repository contains **teaching materials** for an **introductory lecture on the mathematics of deep learning**.  
 It includes **Python code, Jupyter notebooks, and lecture slides (PowerPoint)** to illustrate key concepts.
 
 ⚠️ **Note:** The **lecture slides are in Finnish**, but all **code, comments, and notebooks are in English**.
@@ -10,15 +10,32 @@ It includes **Python code, Jupyter notebooks, and lecture slides (PowerPoint)** 
 ## Contents
 
 * 📂 **Code & Notebooks**
-
   * Implementations of **linear** and **cubic regression** trained with **stochastic gradient descent (SGD)**.
   * Step-by-step visualization of the training process (loss curves, fitted models).
   * Examples of **forward passes, normalization, gradients, and updates** written in simple Python/Numpy.
 
 * 📂 **Lecture Slides**
-
   * PowerPoint presentations introducing the **mathematical foundations**.
   * Covers: normalization, gradient descent, loss functions, chain rule, and regression as a gateway to neural networks.
+
+---
+
+## Repository Structure
+
+```
+
+lecture-materials/
+│
+├── notebook/
+│   └── height\_prediction\_demo.ipynb
+│
+├── slides/
+│   ├── lecture.pdf
+│   └── lecture.pptx
+│
+└── README.md
+
+```
 
 ---
 
@@ -77,10 +94,10 @@ $$
 
 ## Learning Objectives
 
-* Understand **how gradient descent works mathematically**.
-* Derive gradients from the **chain rule**.
-* See the link between **classical regression** and **deep learning optimization**.
-* Gain intuition for **loss landscapes** and training dynamics.
+* Understand **how gradient descent works** at the mathematical level.  
+* Learn to derive gradients step by step using the **chain rule**.  
+* Recognize the basic components of gradient-based **deep learning optimization**.  
+* Observe in real time how training updates the model parameters and how this shapes the **loss landscape** and training dynamics.  
 
 ---
 
@@ -96,3 +113,11 @@ $$
 ## License
 
 Free to use for **educational purposes**. Attribution is appreciated when reusing in your own teaching.
+
+---
+
+## Author & University
+
+**Author:** Mikko Saukkoriipi  
+**University:** Aalto University  
+**Date:** 2025-09-14
