@@ -17,6 +17,8 @@ It includes **Python code, Jupyter notebooks, and lecture slides (PowerPoint)** 
 * 📂 **Lecture Slides**
   * PowerPoint presentations introducing the **mathematical foundations**.
   * Covers: normalization, gradient descent, loss functions, chain rule, and regression as a gateway to neural networks.
+  * 👉 [View the slides on Google Drive](https://docs.google.com/presentation/d/14CdQiG8_UYPg4KA66as-vNcHxabm1BgV/edit?usp=sharing&ouid=113483489228822183710&rtpof=true&sd=true)
+
 
 ---
 
